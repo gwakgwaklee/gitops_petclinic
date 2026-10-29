@@ -1,2 +1,2 @@
-# gitops_petclinic
-devops 실습용도
+# kubernetes-public
+VM 쿠버네틱스 수업 
